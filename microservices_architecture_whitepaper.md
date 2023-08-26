@@ -5,9 +5,12 @@ For years, apps were built and deployed on the monolithic architecture. But in t
 
 This whitepaper will discuss the importance of migrating from monoliths to microservices. We will cover the benefits of microservices, the challenges of migration, and the best practices for a successful migration. Read it if you are looking to improve the agility, scalability, and security of your software. 
 
-**Keywords:** Monolithic architecture, Microservice architecture, Microservices, Monolithic to Microservice migration.
+**Keywords:** ***Monolithic architecture, Microservice architecture, Microservices, Monolithic to Microservice migration.***
 
 ## The Monolithic Architecture
+
+>A monolithic architecture is a software design approach in which all of the components of an application are tightly coupled and packaged together into a single unit. This means that all of the components share the same codebase, runtime environment, and data store.
+
 Traditional enterprise applications are typically structured in three tiers:
 
 - **Client tier:** The client tier is responsible for interacting with the user and displaying the application's UI. It can be implemented in a variety of ways, such as a web browser, a mobile app, or a desktop app.
